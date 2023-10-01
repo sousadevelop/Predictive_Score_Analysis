@@ -1,0 +1,8 @@
+Modelo Árvore de Decisão
+
+    Ele cria uma "árvore" onde faz questões sobre um dado e com base na resposta (sempre sim ou não) ele segmenta os dados.
+
+Modelo KNN -> nearest neighbors - vizinhos mais próximos
+
+    Ele pega uma referência de cada segmento dos dados e julga todos os demais ao redor pela proximidade que possuem da referência,
+    ou seja, se uma pessoa tem o score ruim, todos próximos dele serão julgados com o score ruim.
