@@ -40,6 +40,25 @@ Caso não utilize o Jupyter instale elas sem a exclamação na frente (!).
 
 **Para uma visão mais detalhada você poderá ver no arquivo acima:** *main.ipynb*
 ---
+## Sobre os modelos de Inteligência Artificial usados neste projeto
+```
+Modelo Árvore de Decisão
+
+    Ele cria uma "árvore" onde faz questões sobre um dado e com base na resposta (sempre sim ou não) ele segmenta os dados.
+
+Modelo KNN -> nearest neighbors - vizinhos mais próximos
+
+    Ele pega uma referência de cada segmento dos dados e julga todos os demais ao redor pela proximidade que possuem da referência,
+    ou seja, se uma pessoa tem o score ruim, todos próximos dele serão julgados com o score ruim.
+```
+
+[Modelo Árvore de Decisão]
+![modelo_arvore_decisao](https://github.com/sousadevelop/Predictive_Score_Analysis/assets/92130316/a2127ae7-e684-4d02-9723-6f693209b64b)
+
+[Modelo KNN]
+![modelo_knn](https://github.com/sousadevelop/Predictive_Score_Analysis/assets/92130316/c518e248-d6ad-49e1-bafd-d14575e3d3ac)
+
+---
 ### Avisos:
 - Quanto maior a base de dados melhor será a análise realizada pela IA.
 
